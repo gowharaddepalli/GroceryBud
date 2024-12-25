@@ -1,0 +1,86 @@
+.bud{
+    font-size: 32px;
+    padding-top: 38px;
+    font-style: unset;
+    padding-bottom: 20px;
+    font-display: flex;
+    margin-top: 56px;
+    
+}
+body{
+    background-color: darkslategrey;
+    margin: auto;
+    
+}
+#form{
+    background-color: azure;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: auto;
+    border-radius: 1rem;
+    margin-top: 25%;
+    margin-bottom: 25%;
+}
+#Search{
+    width: 75%;
+    padding-top: 4px;
+    border: 1px solid lightskyblue;
+    background-color: white;
+    padding-bottom: 4px;
+    padding-left: 6px;
+    padding-right: 6px;
+    border-radius: 0.5rem;
+    
+}
+.butt{
+  background: #2196F3;
+  color: black;
+  padding-top: 4px;
+  border: 1px solid rgb(241, 239, 239);
+    padding-bottom: 4px;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-radius: 0.5rem;
+}
+#items{
+    padding-top: 28px;
+    padding-bottom: 12px;
+    padding-left: 0px;
+    padding-right: 0px;
+        
+}
+.bu{
+    padding-right: 50%;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    margin-left: 22px;
+    font-size: 17px;
+    text-align: left;
+    /* margin-bottom: 26px; */
+    width: 80%;
+    /* margin-top: 8px; */
+    margin-right: 18px;
+}
+.icon{
+    
+    background-color: azure;
+    float: right;
+    color: chartreuse;
+    margin: auto;
+    border: none;
+}
+.btn{
+    margin: auto;
+    border: none;
+    color: red;
+    float: right;
+    background-color: azure;
+}
+#exit{
+    color: red;
+    border: 0;
+    background-color: azure;
+    padding-bottom: 15px;
+}
